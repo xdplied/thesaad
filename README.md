@@ -1,1 +1,0 @@
-# Ackermen - An eCommerce Website
